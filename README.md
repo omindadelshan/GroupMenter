@@ -17,11 +17,11 @@ An PowerFull Group Manager Bot. Written In Pytelethon.
 
 • A modular Telegram Python bot running on python3.
 
-• Can be found on telegram as [GroupMenter](https://t.me/GroupMenterRoBot).
+• Can be found on telegram as [SD Group Mannager](https://t.me/SDMannager).
 
 • Alternatively, find me on telegram! (Keep all support questions in the support chat, where more people can help you.)
 
-• You can also join our support group [here](https://t.me/GroupMenterGroup)!
+• You can also join our support group [here](https://t.me/sdprojectupdates)!
 
 - Anime Theme Bot
 
